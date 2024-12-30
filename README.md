@@ -1,7 +1,4 @@
 ![Banner](https://raw.githubusercontent.com/Zainunesa/Zainunesa/refs/heads/main/Make%20your%20README.png)
-<h1 align="center">Hi 👋, I'm Zainunesa Magmoed</h1>
-<h3 align="center">An aspiring developer on a 6-month coding journey at Life Choices Academy, passionate about building innovative web solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainunesa&label=Profile%20views&color=0e75b6&style=flat" alt="zainunesa" /> </p>
 
