@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainunesa" alt="zainunesa" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Vue.js**
+- 🌱I have completed a 6-month coding bootcamp, where I gained hands-on experience with HTML, CSS, JavaScript, Python, Vue.js, Bootstrap, MySQLi, and Oracle APEX.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zainunesa](https://github.com/Zainunesa)
 
